@@ -18,3 +18,8 @@ Quando conheci o FrontEnd me apaixonei pela ideia de escrever linhas de código 
   </a>
   
 </p>
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FerreiraxDev&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerreiraxDev&layout=compact&theme=radical"/>
+</div>
